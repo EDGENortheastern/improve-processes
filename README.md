@@ -10,3 +10,7 @@ I am a Process Integration Developer working at Capgemini on the HMRC account.
 I work with SAP PI/PO integrations, live service support, incident investigation, and automation.
 
 I am interested in improving reliability, monitoring, and processes that help teams work more efficiently.
+
+# Hamidreza Fakharzadeh
+I'm currently working as a Software Engineer at International Tech Support Ltd.
+I'm particularly interested in developing my systems-thinking and strategic-thinking skills, as well as gaining deeper insights into leadership and management.
